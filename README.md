@@ -1,4 +1,5 @@
-## Hi there 👋
+Merhaba! Ben **Emre Yılmaz**, bir **Bilgisayar Mühendisi** ve **Full Stack Developer** olarak yazılım geliştirme dünyasında kariyerime devam ediyorum. 
+  Teknolojilere olan tutkum sayesinde her gün yeni bir şeyler öğreniyor ve yazılım dünyasında kendimi geliştirmeye devam ediyorum.
 
 <!--
 **emreeylmz57/emreeylmz57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
