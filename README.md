@@ -1,6 +1,4 @@
 # Hi there I'm Emre 👋
-
-# Hi there I'm Emre 👋
 * 🎓 3rd Year Computer Engineering Student at **Bandırma Onyedi Eylül University**.
 * 💻 Passionate about **Web Development** and **Frontend Development**.
 * ✨ Aiming to bridge the gap between engineering discipline and creative design.
