@@ -1,5 +1,9 @@
-## Hi there 👋
-*👩‍🎓 I’m a computer engineering student.
+# Hi there I'm Emre 👋
+
+* 🎓 **Bandırma Onyedi Eylül Üniversitesi** - Bilgisayar Mühendisliği 3. Sınıf Öğrencisiyim.
+* 💻 **Web Programlama** ve **Frontend Development** dünyasına tutkuluyum.
+* ✨ Mühendislik disiplini ile yaratıcı tasarımı birleştirmeyi hedefliyorum.
+* 📧 [ey837570@gmail.com](mailto:ey837570@gmail.com)
 <!--
 **emreeylmz57/emreeylmz57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
