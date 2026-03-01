@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+👩‍🎓 I’m a computer engineering student.
 <!--
 **emreeylmz57/emreeylmz57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
